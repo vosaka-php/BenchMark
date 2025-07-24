@@ -1,0 +1,22 @@
+{
+    "name": "venndev/amp-test",
+    "autoload": {
+        "psr-4": {
+            "Venndev\\AmpTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VennV",
+            "email": "hyplex9009@gmail.com"
+        }
+    ],
+    "require": {
+        "amphp/amp": "^3.1",
+        "amphp/http": "^2.1",
+        "amphp/http-client": "^5.3"
+    },
+    "require-dev": {
+        "phpbench/phpbench": "^1.4"
+    }
+}

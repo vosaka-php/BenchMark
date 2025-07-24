@@ -1,0 +1,17 @@
+{
+    "name": "venndev/async-fm",
+    "autoload": {
+        "psr-4": {
+            "Venndev\\AsyncFm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VennV",
+            "email": "hyplex9009@gmail.com"
+        }
+    ],
+    "require": {
+        "terremoth/php-async": "^1.0"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "venndev/react-php-test",
+    "autoload": {
+        "psr-4": {
+            "Venndev\\ReactPhpTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VennV",
+            "email": "hyplex9009@gmail.com"
+        }
+    ],
+    "require": {
+        "react/event-loop": "1.5.0",
+        "react/promise": "3.2.0",
+        "react/stream": "1.4.0",
+        "react/async": "4.3.0",
+        "react/http": "1.11.0"
+    },
+    "require-dev": {
+        "phpbench/phpbench": "^1.4"
+    }
+}

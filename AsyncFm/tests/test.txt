@@ -1,0 +1,3 @@
+Name: JOHN DOE
+Age: 35
+Fruits: ORANGE, APPLE, GRAPE

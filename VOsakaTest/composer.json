@@ -1,0 +1,20 @@
+{
+    "name": "venndev/v-osaka-test",
+    "autoload": {
+        "psr-4": {
+            "Venndev\\VOsakaTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VennV",
+            "email": "hyplex9009@gmail.com"
+        }
+    ],
+    "require": {
+        "venndev/vosaka-http": "^1.0"
+    },
+    "require-dev": {
+        "phpbench/phpbench": "^1.4"
+    }
+}
